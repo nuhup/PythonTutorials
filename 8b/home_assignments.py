@@ -1,4 +1,4 @@
-#Exercise 1 (2 points)
+#Exercise 1 (3 points - to get 3)
 #Evaluate Sum and Average for this collection of incoming numbers 
 #HINT: remember that the funciton len(c) provides the length of the collection 'c'
 #NOTE: print them in console
@@ -6,7 +6,7 @@
 inc_num = [100, 20, 20, 30, 30, 50, 50]
 
 
-#Exercise 2 (2 points)
+#Exercise 2 (1 points - to get 2)
 #The following data-structure represent a police officers in the Mitte department. 
 #Inside the officer dictionary there is a list representing the value of each fine
 #that the police officer made today (in euro).
